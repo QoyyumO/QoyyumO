@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @QoyyumO
-- 👀 I’m interested in robotics.
+- 👀 I’m interested in robotics as well as embedded systems.
 - 🌱 I’m currently learning C# and SQL for Database management.
 - 💞️ I’m looking to collaborate on web development
 - ⚡ Fun fact: started coding at 9 years old
