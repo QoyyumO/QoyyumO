@@ -32,7 +32,7 @@ This github encompasses multiple projects I've worked on.
 
 
 ## Repositories
-<div display="flex">
+<div display="flex"  flex-direction="column" >
 <a href="https://github.com/QoyyumO/toothfixers-project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qoyyumo&repo=toothfixers-project&theme=cobalt" />
 </a>
@@ -46,7 +46,7 @@ This github encompasses multiple projects I've worked on.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qoyyumo&repo=ai-skills-dev&theme=cobalt" />
 </a>
 </div>
-<div display="flex" margin-left="20px">
+<div display="flex" flex-direction="column" margin-left="20px">
     <a href="https://github.com/QoyyumO/inventory-tracker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qoyyumo&repo=inventory-tracker&theme=cobalt" />
 </a>
