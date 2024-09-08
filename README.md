@@ -45,6 +45,8 @@ This github encompasses multiple projects I've worked on.
   <a href="https://github.com/QoyyumO/ai-skills-dev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qoyyumo&repo=ai-skills-dev&theme=cobalt" />
 </a>
+</div>
+<div display="flex">
     <a href="https://github.com/QoyyumO/inventory-tracker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qoyyumo&repo=inventory-tracker&theme=cobalt" />
 </a>
