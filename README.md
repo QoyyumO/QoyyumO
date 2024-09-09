@@ -36,9 +36,6 @@ This github encompasses multiple projects I've worked on.
   <a href="https://github.com/QoyyumO/toothfixers-project">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qoyyumo&repo=toothfixers-project&theme=cobalt" />
   </a>
-  <a href="https://github.com/QoyyumO/pantry-manager">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qoyyumo&repo=pantry-manager&theme=cobalt" />
-  </a>
   <a href="https://github.com/QoyyumO/AI-Flashcard-app">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qoyyumo&repo=ai-flashcard-app&theme=cobalt" />
   </a>
@@ -47,15 +44,6 @@ This github encompasses multiple projects I've worked on.
   </a>
   <a href="https://github.com/QoyyumO/inventory-tracker">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qoyyumo&repo=inventory-tracker&theme=cobalt" />
-  </a>
-  <a href="https://github.com/QoyyumO/ai-customer-app">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qoyyumo&repo=ai-customer-app&theme=cobalt" />
-  </a>
-  <a href="https://github.com/QoyyumO/CBT">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qoyyumo&repo=CBT&theme=cobalt" />
-  </a>
-  <a href="https://github.com/QoyyumO/RMS">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qoyyumo&repo=RMS&theme=cobalt" />
   </a>
 </div>
 
