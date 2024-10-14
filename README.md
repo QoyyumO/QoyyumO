@@ -28,7 +28,7 @@ This github encompasses multiple projects I've worked on.
 ![Node.js](https://img.shields.io/badge/-Node%20JS-orange?style=for-the-badge&logo=nodedotjs)
 ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind-CSS](https://img.shields.io/badge/-Tailwind%20CSS-e5e5e5?style=for-the-badge&logo=tailwindcss)
-![Material UI](https://img.shields.io/badge/-Material%20UI-007FFF?style=for-the-badge&logo=mui)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Clerk](https://img.shields.io/badge/-Clerk-3F4FFF?style=for-the-badge&logo=clerk)
 ![Pinecone](https://img.shields.io/badge/-Pinecone-1AA6B7?style=for-the-badge)
 ![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-412991?style=for-the-badge&logo=openai)
