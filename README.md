@@ -14,6 +14,7 @@ This github encompasses multiple projects I've worked on.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-008080?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ## Frameworks and Tools
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -33,6 +34,7 @@ This github encompasses multiple projects I've worked on.
 ![Groq API](https://img.shields.io/badge/-Groq%20API-FF4500?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![Swing](https://img.shields.io/badge/Java_Swing-6DB33F?style=for-the-badge&logo=java&logoColor=white)
 ## GitHub Stats
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=qoyyumo&theme=ambient_gradient&hide_border=false)
