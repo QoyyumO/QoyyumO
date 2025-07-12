@@ -6,7 +6,7 @@ This github encompasses multiple projects I've worked on.
 <br/>
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:oyinlolaoyadeyi@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/abdul-qoyyum-oyadeyi-77725b1b3/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/qoyyumo/)
 
 ## :gear: Skills
 ## Languages
