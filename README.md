@@ -46,7 +46,7 @@ This github encompasses multiple projects I've worked on.
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qoyyumo&repo=toothfixers-project&theme=cobalt" />
   </a>
   <a href="https://github.com/QoyyumO/ASMS">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qoyyumo&repo=asms&theme=cobalt" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qoyyumo&repo=ASMS&theme=cobalt" />
   </a>
   <a href="https://github.com/QoyyumO/ai-skills-dev">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qoyyumo&repo=ai-skills-dev&theme=cobalt" />
